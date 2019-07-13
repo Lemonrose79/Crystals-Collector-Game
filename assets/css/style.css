@@ -1,0 +1,53 @@
+/*font-family: 'Alfa Slab One', cursive;
+font-family: 'Ek Mukta', sans-serif;*/
+
+/* Backgrounds */
+body {
+	background-image: ("assets/images/darkness.png");
+}
+
+.jumbotron, h1 {
+	background-color:lavender;
+	font-family: 'Megrim', cursive;
+
+
+#gameSection, #scoreSection {
+	background-color: aqua;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*FOR TESTING*/
+/*#numberSection, #totalPoints {
+	background-color: yellow;
+}*/
+
+#buttonSection {
+
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+/* Fonts */
+h1, h2, h3 {
+	font-family: 'Fredericka the Great', cursive;
+}
+
+p {
+	font-family: 'Megrim', cursive;
+
+.numberBox {
+	font-size: 100px;
+	margin: 0px;
+}
+
+/* images for buttons */
+.icon1, .icon2, icon3, icon4 {
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
