@@ -16,3 +16,7 @@ Wrote clean code
 Tested app
 Debugged app
 
+
+PLEASE CLICK TO VIEW:
+https://lemonrose79.github.io/Crystals-Collector-Game/
+
